@@ -1,0 +1,10 @@
+#navs{
+    background-color: rgba(92, 90, 90, 0.1);
+    border: solid rgba(105, 104, 104, 0.15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(99, 98, 98, 0.1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+.nav-item:hover{
+    cursor: pointer;
+   transform: scale(1.08);
+  }

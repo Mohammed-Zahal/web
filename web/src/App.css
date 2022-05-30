@@ -1,0 +1,22 @@
+
+.card{
+  transition: all 0.5s ease;
+}
+.card:hover{
+  cursor: pointer;
+  box-shadow: 0.5rem 1rem rgba(1, 1, 1, .3);
+}
+
+*{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+#names{
+  text-align: center;
+}
+#line{
+  text-align: center;
+}
+
+
